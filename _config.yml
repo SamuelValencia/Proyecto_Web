@@ -1,8 +1,9 @@
 title: Introducción  a la Ingenieria de software 
 iconURL: assets/default-icon.png
 theme: Introducción a la Ingenieria de software
+Autor :Samuel Valencia  
+# for a clean 
 
-# for a clean URL
 permalink: :slug
 
 social:
